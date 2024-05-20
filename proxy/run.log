@@ -1,0 +1,118 @@
+2024-05-19 16:53:16,133 [INFO] 目标url主域名:www.zdaye.com
+2024-05-19 16:53:16,841 [ERROR] failed to fetch
+2024-05-19 16:56:23,440 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 16:56:25,076 [ERROR] failed to fetch
+2024-05-19 17:02:06,584 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:02:09,164 [ERROR] failed to fetch
+2024-05-19 17:03:00,236 [INFO] url:{url}
+2024-05-19 17:03:00,236 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:03:06,331 [INFO] url:{url}
+2024-05-19 17:03:06,332 [ERROR] failed to fetch
+2024-05-19 17:03:23,329 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:03:23,330 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:03:28,765 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:03:28,766 [ERROR] failed to fetch
+2024-05-19 17:05:53,951 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:05:53,952 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:06:04,270 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:06:04,270 [ERROR] failed to fetch
+2024-05-19 17:07:29,636 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:07:29,636 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:07:31,884 [INFO] status_code:200
+2024-05-19 17:09:47,634 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:09:47,635 [ERROR] failed to fetch
+2024-05-19 17:09:49,666 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:09:49,667 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:09:51,471 [INFO] status_code:200
+2024-05-19 17:10:02,138 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:10:02,139 [ERROR] failed to fetch
+2024-05-19 17:11:47,638 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:11:47,639 [INFO] 目标url主域名:www.kuaidaili.com
+2024-05-19 17:11:49,608 [INFO] status_code:200
+2024-05-19 17:11:50,099 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:11:50,099 [ERROR] failed to fetch
+2024-05-19 17:14:22,334 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:14:25,465 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:14:25,465 [ERROR] failed to fetch
+2024-05-19 17:15:37,015 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:15:40,974 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:15:40,974 [ERROR] failed to fetch
+2024-05-19 17:18:43,345 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:18:46,001 [ERROR] failed to fetch
+2024-05-19 17:18:46,002 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:18:46,002 [ERROR] failed to fetch
+2024-05-19 17:19:14,689 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:19:16,809 [ERROR] failed to fetch
+2024-05-19 17:19:16,809 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:19:16,809 [ERROR] failed to fetch
+2024-05-19 17:21:33,755 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:21:34,402 [ERROR] failed to fetch
+2024-05-19 17:21:34,402 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:21:35,806 [INFO] success to fetch
+2024-05-19 17:22:13,627 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:22:25,859 [ERROR] failed to fetch
+2024-05-19 17:22:25,860 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:22:27,910 [INFO] success to fetch
+2024-05-19 17:27:54,332 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:27:57,071 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:44:19,499 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:44:20,912 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:44:54,620 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:44:57,518 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:49:52,799 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:49:56,132 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:50:47,403 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:50:48,879 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:51:04,076 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:51:05,510 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:54:40,286 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:54:41,755 [ERROR] failed to fetch
+2024-05-19 17:54:41,755 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 17:54:43,319 [ERROR] failed to fetch
+2024-05-19 17:54:56,734 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 17:55:01,768 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:34:45,346 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:34:48,032 [ERROR] failed to fetch
+2024-05-19 18:34:48,033 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:34:49,308 [ERROR] failed to fetch
+2024-05-19 18:35:31,919 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:35:33,504 [ERROR] failed to fetch
+2024-05-19 18:35:33,504 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:35:35,700 [ERROR] failed to fetch
+2024-05-19 18:35:54,772 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:35:57,377 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:37:05,317 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:38:05,508 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:38:07,439 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:39:18,169 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:39:19,836 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:40:52,195 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:40:57,643 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:47:09,381 [INFO] url:https://www.kuaidaili.com/free/inha/1
+2024-05-19 18:47:14,245 [INFO] url:https://free.kuaidaili.com/free/intr/1
+2024-05-19 18:55:09,120 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 18:55:15,743 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-19 19:03:21,097 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 19:03:26,862 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-19 19:07:22,559 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 19:07:26,044 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-19 19:10:04,755 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 19:10:05,983 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-19 21:41:50,496 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 21:41:51,705 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-19 22:31:09,572 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-19 22:31:13,087 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 17:28:08,087 [INFO] 爬取代理网站主域名:www.zdaye.com
+2024-05-20 17:28:11,889 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 21:08:07,034 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 21:11:22,756 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 21:40:29,821 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 21:46:36,902 [INFO] 爬取代理网站主域名:http://www.ip3366.net/
+2024-05-20 21:49:37,358 [INFO] 爬取代理网站主域名:http://www.ip3366.net/
+2024-05-20 21:52:45,677 [INFO] 爬取代理网站主域名:http://www.ip3366.net/
+2024-05-20 21:53:28,534 [INFO] 爬取代理网站主域名:http://www.ip3366.net/
+2024-05-20 22:22:43,119 [INFO] 爬取代理网站主域名:www.kuaidaili.com
+2024-05-20 22:29:05,554 [INFO] primary domain name:www.kuaidaili.com
+2024-05-20 22:29:17,143 [INFO] primary domain name:http://www.ip3366.net/
+2024-05-20 22:36:11,105 [INFO] primary domain name:www.kuaidaili.com
+2024-05-20 22:36:28,974 [INFO] primary domain name:http://www.ip3366.net/
