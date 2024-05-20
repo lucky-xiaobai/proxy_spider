@@ -1,7 +1,7 @@
 import requests
 from tqdm import tqdm
 from prettytable import PrettyTable
-
+import proxy_pool
 
 # url = 'http://www.baidu.com'
 
@@ -30,10 +30,13 @@ def url_test(url):
 
 
 def proxy_info(file_name):
-    table = PrettyTable(['ip:port'])
-    print('{}文件中的信息如下'.format(file_name))
     with open(file_name, 'r', encoding='utf-8') as f:
         text = f.readlines()
+        if len(text) == 0:
+            print('the file is null')
+            return
+        print('{}文件中的信息如下'.format(file_name))
+        table = PrettyTable(['ip:port'])
         for i in text:
             table.add_row([i[:-1]])
         print(table)
@@ -44,7 +47,7 @@ def proxy_test(url, file_name):
         text = f.readlines()
         proxies_alive = list()
         proxies_dead = list()
-        for proxy in tqdm(text, desc='ip存活检测'):
+        for proxy in tqdm(text, desc='Proxy Survival Testing'):
             proxies = {
                 'http': 'http://{}'.format(proxy[:-1]),
                 'https': 'https://{}'.format(proxy[:-1])
@@ -58,13 +61,14 @@ def proxy_test(url, file_name):
             except:
                 proxies_dead.append(proxy[:-1])
         if len(proxies_alive) != 0:
-            print('存活代理ip如下:')
-            table = PrettyTable(['存活代理 ip:port'])
+            print('Surviving agents are as follows:')
+            table = PrettyTable(['alive proxy ip:port'])
             for i in proxies_alive:
-                table.add_row([i[:-1]])
+                table.add_row([i])
             print(table)
         else:
-            print('暂无存活代理')
+            print('No live proxy ip')
+        return proxies_alive
 
 
 if __name__ == '__main__':
@@ -72,5 +76,7 @@ if __name__ == '__main__':
     file_name = 'proxy_pool.txt'
     if url_test(test_url) == 1:
         proxy_info(file_name)
-        proxy_test(test_url, file_name)
+        proxies_alive = proxy_test(test_url, file_name)
+        if len(proxies_alive) != 0:
+            proxy_pool.save2txt(proxies=proxies_alive, file_name=file_name)
     exit()
